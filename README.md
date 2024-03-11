@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @56amit
-- web developer
-- Javascript
-- ReactJs
+- web developer || Javascript || ReactJs
