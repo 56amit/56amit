@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @56amit
-- web developer || Javascript || ReactJs
+- web developer || HTML|| CSS|| Bootstrap|| TailwindsCSS|| Javascript || ReactJs || NodeJs|| 
